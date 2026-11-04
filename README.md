@@ -140,14 +140,6 @@ Add screenshots of your project here to showcase its user interface.
 
 ---
 
-## 👩‍💻 Developer
-
-**Riya Kar**
-
-A frontend development project created to practice and demonstrate HTML, CSS and JavaScript skills through the development of a real-world food discovery and ordering interface.
-
----
-
 ## ⚠️ Disclaimer
 
 This project is created for educational and learning purposes. It is inspired by Zomato's website design and functionality and is not affiliated with or endorsed by Zomato.
